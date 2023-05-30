@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.footer-text {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #475569;
+  font-weight: 600;
+  line-height: 1.2;
+}
+.footer-container {
+  background-color: #cbd5e1;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}

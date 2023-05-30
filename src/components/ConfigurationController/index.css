@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.configuration-controller-container {
+  background-color: #475569;
+  padding: 10px;
+  padding-left: 40px;
+  display: flex;
+  flex-direction: column;
+}
+.main-heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  color: #ffffff;
+  font-weight: 600;
+}
+.unordered-list-items-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.list-items-details {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+.content-element {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 500;
+}
+.checkbox-input {
+  height: 20px;
+  width: 20px;
+  margin-right: 15px;
+}
